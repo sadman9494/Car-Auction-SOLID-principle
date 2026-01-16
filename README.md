@@ -11,6 +11,11 @@ The primary goal of this application is to showcase:
 - Realistic auction domain modeling  
 - Scalable backend architecture suitable for enterprise systems  
 
+##  Sequence Diagram
+![Project Architecture](./diagram/Sequecnce%20Diagram.png)
+
+
+
 ## Core Workflow (High Level)
 
 - User Registration & Authentication
